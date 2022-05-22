@@ -52,7 +52,7 @@ label{
     cursor: pointer;
     font-size: 2em;
     box-shadow: rgb(150 150 150) 5px 5px 2px;
-    background-image: url(/assets/img/arvore.png);
+    background-image: url(../img/arvore.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -106,7 +106,7 @@ input[type=radio]{
     justify-content: center;
     align-items: center;
     background-color: rgba(0, 0, 0, .5);
-    background-image: url("/assets/img/confete.png");
+    background-image: url("../img/confete.png");
     background-repeat: repeat-y;
     animation: snow 4s linear infinite;
     -webkit-animation: snow 4s linear infinite;
